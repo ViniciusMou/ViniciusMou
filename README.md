@@ -4,7 +4,7 @@ Atualmente estou estudando e desenvolvendo projetos com Java, Spring Boot e Node
 
 ---
 
-## Tecnologias
+ Tecnologias
 
 - Java
 - Spring Boot
@@ -14,8 +14,7 @@ Atualmente estou estudando e desenvolvendo projetos com Java, Spring Boot e Node
 - Git e GitHub
 
 ---
-
-## Atualmente estudando
+Atualmente estudando
 
 - Desenvolvimento de APIs REST
 - Banco de dados MySQL
@@ -24,14 +23,14 @@ Atualmente estou estudando e desenvolvendo projetos com Java, Spring Boot e Node
 
 ---
 
-## Projetos
+Projetos
 
 Estante Virtual (em desenvolvimento)  
 Sistema backend para gerenciamento de livros com CRUD utilizando Java e Spring Boot.
 
 ---
 
-## Contato
+Contato
 
 Email: viniciusmoura.vmg@gmail.com  
 GitHub: https://github.com/ViniciusMou  
