@@ -19,7 +19,7 @@ Atualmente, estou aprofundando meus conhecimentos em **JavaScript, Node.js, APIs
 
 API REST desenvolvida com **Node.js, Express e MySQL** para gerenciamento de um acervo de livros.
 
-O projeto conta com operações CRUD, validação de dados, tratamento de erros, integração com banco de dados e utilização de variáveis de ambiente para proteção das credenciais.
+Implementa operações CRUD, validação de dados, tratamento de erros, integração com banco de dados MySQL e uso de variáveis de ambiente para proteção das credenciais de conexão.
 
 [Ver projeto no GitHub](https://github.com/ViniciusMou/Estante-Virtual)
 
