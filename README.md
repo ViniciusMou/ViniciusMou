@@ -1,36 +1,36 @@
-Desenvolvedor em transição de carreira, com foco em backend e construção de APIs.
+# Vinicius Moura
 
-Atualmente estou estudando e desenvolvendo projetos com Java, Spring Boot e Node.js, além de aprofundar conhecimentos em bancos de dados relacionais com MySQL.
+Profissional em transição de carreira para a área de Tecnologia, com foco em **desenvolvimento backend**.
 
----
+Atualmente, estou aprofundando meus conhecimentos em **JavaScript, Node.js, APIs REST e MySQL**, desenvolvendo projetos práticos e buscando consolidar minha experiência na área de desenvolvimento.
 
- Tecnologias
+## Tecnologias
 
-- Java
-- Spring Boot
-- Node.js
-- MySQL
-- XAMPP
-- Git e GitHub
+* JavaScript
+* Node.js
+* Express
+* MySQL
+* Git
+* GitHub
 
----
-Atualmente estudando
+## Projeto em destaque
 
-- Desenvolvimento de APIs REST
-- Banco de dados MySQL
-- Node.js para backend
-- Boas práticas de desenvolvimento backend
+### Estante Virtual
 
----
+API REST desenvolvida com **Node.js, Express e MySQL** para gerenciamento de um acervo de livros.
 
-Projetos
+O projeto conta com operações CRUD, validação de dados, tratamento de erros, integração com banco de dados e utilização de variáveis de ambiente para proteção das credenciais.
 
-Estante Virtual (em desenvolvimento)  
-Sistema backend para gerenciamento de livros com CRUD utilizando Java e Spring Boot.
+[Ver projeto no GitHub](https://github.com/ViniciusMou/Estante-Virtual)
 
----
+## Atualmente estudando
 
-Contato
+* JavaScript
+* Node.js
+* Desenvolvimento de APIs REST
+* Banco de dados e SQL
+* Boas práticas de desenvolvimento backend
 
-Email: viniciusmoura.vmg@gmail.com  
-GitHub: https://github.com/ViniciusMou  
+## Objetivo
+
+Busco uma oportunidade na área de Tecnologia, com foco em **desenvolvimento backend**, para aplicar meus conhecimentos, continuar evoluindo tecnicamente e contribuir com projetos e equipes de desenvolvimento.
