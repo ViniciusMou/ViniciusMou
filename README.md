@@ -2,7 +2,7 @@
 
 Profissional em transição de carreira para a área de Tecnologia, com foco em **desenvolvimento backend**.
 
-Atualmente, estou aprofundando meus conhecimentos em **JavaScript, Node.js, APIs REST e MySQL**, desenvolvendo projetos práticos e buscando consolidar minha experiência na área de desenvolvimento.
+Atualmente, estou aprofundando meus conhecimentos em **JavaScript, Node.js, APIs REST e MySQL**, desenvolvendo projetos práticos e consolidando meus conhecimentos na área de desenvolvimento.
 
 ## Tecnologias
 
@@ -31,6 +31,3 @@ Implementa operações CRUD, validação de dados, tratamento de erros, integra�
 * Banco de dados e SQL
 * Boas práticas de desenvolvimento backend
 
-## Objetivo
-
-Busco uma oportunidade na área de Tecnologia, com foco em **desenvolvimento backend**, para aplicar meus conhecimentos, continuar evoluindo tecnicamente e contribuir com projetos e equipes de desenvolvimento.
